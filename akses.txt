@@ -1,0 +1,9 @@
+/picture/$shell
+/pictures/$shell
+/images/$shell
+/photo/$shell
+/video/$shell
+/audio/$shell
+/fotosiswa/$shell
+/mesin/$shell
+/panel/$shell
