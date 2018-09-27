@@ -8,6 +8,8 @@ cd CBT-E
 chmod +x *
 apt install python2
 python2 cbt.py
+# Update
+bash update.sh
 
 # Pake http atau https
 Target : http://site.com
