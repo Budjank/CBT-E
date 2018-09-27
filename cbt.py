@@ -17,7 +17,7 @@ class bcolors:
 
 class cbt():
     print ""
-    print bcolors.HEADER + "\t#########################################" + bcolors.ENDC
+    print bcolors.HEADER + "\t##########################################" + bcolors.ENDC
     print bcolors.HEADER + "\t#     Author  :  D3n0l Ganz              #" + bcolors.ENDC
     print bcolors.HEADER + "\t#     Team    :  Indonesian Sad Cyber    #" + bcolors.ENDC
     print bcolors.HEADER + "\t#     Version :  V.1                     #" + bcolors.ENDC
